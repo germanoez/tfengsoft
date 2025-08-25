@@ -1,4 +1,4 @@
-# História do Git TF para aula de Engenharia de Software
+# História do Git TF Aula de Engenharia de Software
 
 O Git é um sistema de controle de versão distribuído criado por Linus Torvalds em 2005. Ele foi desenvolvido para atender às necessidades do projeto do kernel Linux, que exigia uma ferramenta rápida, eficiente e confiável para gerenciar o código-fonte de um grande número de desenvolvedores espalhados pelo mundo.
 
